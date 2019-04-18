@@ -1,7 +1,7 @@
 # Pyclid
 ![Python](https://img.shields.io/badge/Built%20With-Python-yellow.svg) ![Progress](https://img.shields.io/badge/Progress-Early%20Beta-orange.svg)
 
-Pyclid is a simple python script that calculates the highest common factor between two numbers.
+Pyclid is a simple python script that calculates the highest common factor between two numbers based on [Euclid's Algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm).
 
 
 ## Installation
