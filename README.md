@@ -17,7 +17,7 @@ mkdir Pyclid-Example
 
 cd Pyclid-Example
 
-git clone https://github.com/sampoder/Pyclid.git
+git clone https://github.com/sampoder/pyclid.git
 
 touch example.py
 
@@ -35,7 +35,7 @@ mkdir Pyclid-Example
 
 cd Pyclid-Example
 
-git clone https://github.com/sampoder/Pyclid.git
+git clone https://github.com/sampoder/pyclid.git
 
 echo . -> example.py #We will delete the dot later
 
