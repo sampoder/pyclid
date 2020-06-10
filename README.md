@@ -1,8 +1,7 @@
-# Pyclid
+# 🤔 pyclid
 ![Python](https://img.shields.io/badge/Built%20With-Python-yellow.svg) ![Progress](https://img.shields.io/badge/Progress-Beta-orange.svg)
 
 Pyclid is a simple python library that calculates the highest common factor based on [Euclid's Algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm).
-
 
 ## Set Up
 
@@ -59,13 +58,10 @@ x = pyclid.returnHCF(288,160) #Here we call the library with our two numbers.
 
 print(x) #Here we display our results
 ```
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-
-
-## Contributors
-
-
-[![Sam Poder](http://img.shields.io/badge/Ran%20by-Sam%20Poder-success.svg) ](https://sampoder.github.io/)
+If you find a bug please report it using GitHub Issues.
 
 ## License
 
